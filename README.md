@@ -15,3 +15,5 @@ The focus of this script is to allow for an easy set-up if you're a new user in 
 ## Development Goals
 
 1. Right now, the script is only oriented towards a bash environment, future goals intend to make the script encompassing enough that it will work regardless of the environment it is in (zsh, kfi, or bash).
+
+2. Emulate the same thing, but in python3 (better portability/efficiency)
