@@ -30,3 +30,5 @@ echo -e 'function cd() {\n
     fi;
     builtin cd "${new_directory}" && ls
     }' >> ~/.bashrc
+
+echo -e 'source ~/.bashrc'
